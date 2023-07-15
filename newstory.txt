@@ -1,1 +1,2 @@
 today is a lovely day
+added new line
